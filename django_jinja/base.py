@@ -50,7 +50,6 @@ JINJA2_FILTERS = {
     "addslashes": "django_jinja.builtins.filters.addslashes",
     "capfirst": "django_jinja.builtins.filters.capfirst",
     "escapejs": "django_jinja.builtins.filters.escapejs_filter",
-    "fix_ampersands": "django_jinja.builtins.filters.fix_ampersands_filter",
     "floatformat": "django_jinja.builtins.filters.floatformat",
     "iriencode": "django_jinja.builtins.filters.iriencode",
     "linenumbers": "django_jinja.builtins.filters.linenumbers",
